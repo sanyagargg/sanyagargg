@@ -13,7 +13,7 @@
 
 
 
-<p align="left">🔭 I’m currently working on an E-Commerce Website<br>👯 I’m looking to collaborate on Machine Learning and Web-Dev Projects<br>🌱 I’m currently learning DSA, Machine Learning, Deep Learning, Full-stack<br>💬 Ask me about Web Development, DSA, OOPs, DBMS</p>
+<p align="left">🔭 I’m currently working on an E-Commerce Website<br>👯 I’m looking to collaborate on Machine Learning and Web-Dev Projects<br>🌱 I’m currently learning DSA, Machine Learning, Deep Learning, Full-stack<br>💬 Ask me about Web Development, DSA, OOPs, OS, DBMS</p>
 
 ###
 
