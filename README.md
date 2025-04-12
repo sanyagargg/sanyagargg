@@ -3,7 +3,7 @@
 ###
 
 
-<p align="left">I am an aspiring software engineer from Delhi and a final-year student at Netaji Subhas University of Technology (formerly, NSIT). Web development, machine learning and the world of computer science in general has me hooked, and I love the challenge of turning ideas into sleek and functional applications.<br><br>I am also a Google WE Scholar. This program shaped my journey, fueled my passion for problem-solving  and now I am on a mission to write clean code and build cool projects.<br><br>I bring determination, adaptibility, and just the right amount of stubborness to debug my code until it works.</p>
+<p align="left">I am an aspiring software engineer from Delhi and a pre-final-year student at Netaji Subhas University of Technology (formerly, NSIT). Web development, machine learning and the world of computer science in general has me hooked, and I love the challenge of turning ideas into sleek and functional applications.<br><br>I am also a Google WE Scholar. This program shaped my journey, fueled my passion for problem-solving  and now I am on a mission to write clean code and build cool projects.<br><br>I bring determination, adaptibility, and just the right amount of stubborness to debug my code until it works.</p>
 
 ###
 
